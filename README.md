@@ -1,10 +1,9 @@
 # ctd_visualization
 code for extracting data from .aml and .cnv files and visualization of the data
 
-if you use the vertical profile visualization please refer to it as:
-Konstantinopoulos, T. (2022). CTD data visualization code, adapted from: addaxis version 1.1.0.0, Harry Lee (2022). available on: https://github.com/themiskon/ctd_visualization
+vertical profile CTD visualization code, adapted from: addaxis version 1.1.0.0, Harry Lee (2022).
 
-In order for this code to work please download additionaly: 
+In order for the vertical profile code to work please download additionaly,
 
 John D'Errico (2022). Surface Fitting using gridfit (https://www.mathworks.com/matlabcentral/fileexchange/8998-surface-fitting-using-gridfit), MATLAB Central File Exchange. Retrieved June 17, 2022. 
 
